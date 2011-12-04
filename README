@@ -1,0 +1,3 @@
+CAJUN is a C++ API for the JSON data interchange format with an emphasis on an intuitive, concise interface. The library provides JSON types and operations that mimic standard C++ as closely as possible in concept and design.
+
+http://sourceforge.net/projects/cajun-jsonapi
